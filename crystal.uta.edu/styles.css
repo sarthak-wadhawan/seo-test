@@ -150,9 +150,17 @@ h2 {
 }
 
 .section-label {
-  margin: 14px 0 0;
+  margin-top: 10px;
+  margin: 10px 0 0;
   color: #33485b;
   font-size: 1rem;
+}
+.section-label_two {
+    font-size: 16px;
+    color: #33485b;
+    font-weight: 400;
+    margin-top: 0;
+    text-align: center;
 }
 
 .cse-logo {
